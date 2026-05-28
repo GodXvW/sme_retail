@@ -1,0 +1,4 @@
+warehouse_id,warehouse_taxonomies,location,capacity_units,cold_storage
+WH-0001,central,Bangkok,50000,True
+WH-0002,regional_north,Chiang Mai,20000,False
+WH-0003,regional_south,Surat Thani,15000,True

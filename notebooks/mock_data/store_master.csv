@@ -1,0 +1,11 @@
+store_id,store_name,store_taxonomies,region,opening_year,size_sqm
+STORE-0001,Branch STORE-0001,suburban_medium,Bangkok,2022,500
+STORE-0002,Branch STORE-0002,urban_large,Bangkok,2015,300
+STORE-0003,Branch STORE-0003,convenience,North,2022,80
+STORE-0004,Branch STORE-0004,suburban_medium,North,2018,300
+STORE-0005,Branch STORE-0005,convenience,South,2017,80
+STORE-0006,Branch STORE-0006,urban_large,South,2015,800
+STORE-0007,Branch STORE-0007,urban_large,North,2022,150
+STORE-0008,Branch STORE-0008,convenience,South,2018,150
+STORE-0009,Branch STORE-0009,rural_small,South,2020,150
+STORE-0010,Branch STORE-0010,rural_small,Central,2022,300

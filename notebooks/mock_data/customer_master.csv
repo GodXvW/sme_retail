@@ -1,0 +1,501 @@
+customer_id,customer_taxonomies,acquisition_channel,is_loyalty_member,registration_date,province,age,gender,location
+CUST-0001,occasional,LINE_OA,True,2023-02-17,Bangkok,24,M,Vicinity
+CUST-0002,regular,LINE_OA,False,2021-12-11,Khon Kaen,26,M,Bangkok
+CUST-0003,occasional,LINE_OA,False,2022-10-04,Bangkok,25,Unknown,Vicinity
+CUST-0004,regular,online,True,2022-01-17,Khon Kaen,29,M,Chonburi
+CUST-0005,regular,walk_in,True,2022-11-21,Chiang Mai,51,M,Chiang Mai
+CUST-0006,occasional,online,False,2023-12-16,Chiang Mai,50,F,Bangkok
+CUST-0007,occasional,LINE_OA,False,2022-04-02,Chonburi,40,F,Bangkok
+CUST-0008,occasional,walk_in,True,2023-09-10,Khon Kaen,41,Unknown,Bangkok
+CUST-0009,occasional,online,False,2021-03-24,Khon Kaen,54,F,Khon Kaen
+CUST-0010,regular,LINE_OA,True,2021-05-29,Khon Kaen,52,M,Khon Kaen
+CUST-0011,high_value,LINE_OA,False,2021-07-09,Chonburi,61,M,Vicinity
+CUST-0012,regular,walk_in,False,2023-06-02,Chonburi,57,F,Vicinity
+CUST-0013,regular,walk_in,False,2021-09-20,Chiang Mai,39,F,Chonburi
+CUST-0014,regular,walk_in,False,2022-02-04,Bangkok,44,M,Bangkok
+CUST-0015,new,LINE_OA,True,2023-02-03,Khon Kaen,52,F,Khon Kaen
+CUST-0016,regular,walk_in,True,2022-09-01,Khon Kaen,18,M,Bangkok
+CUST-0017,new,LINE_OA,False,2023-02-24,Bangkok,52,F,Bangkok
+CUST-0018,occasional,LINE_OA,False,2021-04-11,Khon Kaen,54,M,Vicinity
+CUST-0019,occasional,LINE_OA,False,2023-03-31,Chonburi,64,F,Bangkok
+CUST-0020,regular,walk_in,True,2023-03-31,Chonburi,31,M,Bangkok
+CUST-0021,regular,walk_in,True,2022-02-24,Khon Kaen,20,M,Chonburi
+CUST-0022,regular,walk_in,True,2021-05-04,Chonburi,18,M,Bangkok
+CUST-0023,regular,LINE_OA,False,2022-02-26,Chonburi,22,F,Vicinity
+CUST-0024,occasional,online,True,2023-12-23,Khon Kaen,43,F,Bangkok
+CUST-0025,regular,LINE_OA,False,2023-02-07,Chiang Mai,31,F,Bangkok
+CUST-0026,high_value,walk_in,False,2022-04-28,Bangkok,56,Unknown,Bangkok
+CUST-0027,occasional,LINE_OA,False,2022-06-03,Chonburi,44,M,Bangkok
+CUST-0028,regular,LINE_OA,True,2021-06-04,Chiang Mai,26,M,Chonburi
+CUST-0029,new,LINE_OA,False,2021-04-02,Chonburi,32,F,Bangkok
+CUST-0030,new,LINE_OA,False,2023-09-09,Chonburi,32,M,Vicinity
+CUST-0031,new,walk_in,False,2022-03-31,Bangkok,43,Unknown,Bangkok
+CUST-0032,regular,walk_in,False,2022-08-21,Chonburi,59,M,Chonburi
+CUST-0033,high_value,LINE_OA,False,2022-05-25,Bangkok,30,Unknown,Phuket
+CUST-0034,new,online,False,2022-01-21,Bangkok,49,M,Chonburi
+CUST-0035,regular,LINE_OA,True,2022-02-09,Bangkok,56,F,Bangkok
+CUST-0036,new,walk_in,True,2021-09-03,Chiang Mai,49,F,Bangkok
+CUST-0037,new,online,False,2023-01-12,Khon Kaen,21,Unknown,Bangkok
+CUST-0038,new,walk_in,False,2022-10-23,Chiang Mai,47,M,Vicinity
+CUST-0039,regular,LINE_OA,False,2022-10-12,Khon Kaen,54,F,Bangkok
+CUST-0040,regular,online,False,2023-06-20,Khon Kaen,40,Unknown,Bangkok
+CUST-0041,new,walk_in,True,2021-03-06,Bangkok,56,F,Vicinity
+CUST-0042,regular,LINE_OA,True,2023-11-03,Chonburi,62,F,Bangkok
+CUST-0043,regular,LINE_OA,False,2021-08-01,Bangkok,32,F,Chiang Mai
+CUST-0044,regular,walk_in,False,2021-08-30,Chonburi,60,F,Bangkok
+CUST-0045,new,walk_in,True,2022-05-08,Khon Kaen,46,F,Bangkok
+CUST-0046,occasional,walk_in,False,2021-12-04,Bangkok,53,F,Chonburi
+CUST-0047,regular,online,True,2021-06-22,Chonburi,30,F,Bangkok
+CUST-0048,high_value,walk_in,False,2022-11-03,Chiang Mai,49,M,Chonburi
+CUST-0049,occasional,LINE_OA,True,2021-06-13,Chonburi,24,M,Bangkok
+CUST-0050,new,LINE_OA,False,2022-04-10,Bangkok,39,Unknown,Bangkok
+CUST-0051,high_value,LINE_OA,True,2023-09-22,Chiang Mai,45,F,Chiang Mai
+CUST-0052,regular,walk_in,False,2022-05-12,Chonburi,19,F,Chiang Mai
+CUST-0053,new,LINE_OA,True,2022-12-01,Chonburi,59,F,Chonburi
+CUST-0054,occasional,walk_in,True,2022-01-30,Chonburi,62,M,Bangkok
+CUST-0055,occasional,walk_in,True,2022-12-04,Chonburi,23,M,Vicinity
+CUST-0056,occasional,online,False,2021-11-04,Chonburi,45,F,Bangkok
+CUST-0057,regular,LINE_OA,False,2021-07-02,Chiang Mai,45,M,Bangkok
+CUST-0058,regular,walk_in,True,2022-09-21,Khon Kaen,61,F,Khon Kaen
+CUST-0059,occasional,LINE_OA,False,2022-05-25,Chiang Mai,61,M,Bangkok
+CUST-0060,occasional,walk_in,False,2022-06-30,Chiang Mai,37,Unknown,Phuket
+CUST-0061,new,LINE_OA,False,2022-09-16,Chiang Mai,47,Unknown,Bangkok
+CUST-0062,new,LINE_OA,True,2022-08-17,Khon Kaen,28,F,Bangkok
+CUST-0063,regular,walk_in,False,2023-01-14,Bangkok,45,F,Vicinity
+CUST-0064,regular,LINE_OA,True,2022-07-08,Khon Kaen,42,M,Khon Kaen
+CUST-0065,occasional,LINE_OA,True,2021-01-21,Chiang Mai,56,F,Chonburi
+CUST-0066,occasional,walk_in,False,2022-07-08,Chonburi,50,F,Chiang Mai
+CUST-0067,occasional,walk_in,True,2022-02-01,Chonburi,18,M,Chonburi
+CUST-0068,occasional,walk_in,False,2022-09-17,Chiang Mai,44,F,Chonburi
+CUST-0069,new,walk_in,False,2021-04-15,Chonburi,30,F,Chiang Mai
+CUST-0070,regular,walk_in,False,2021-07-11,Chiang Mai,58,F,Bangkok
+CUST-0071,regular,LINE_OA,False,2021-01-17,Chonburi,20,F,Bangkok
+CUST-0072,high_value,LINE_OA,True,2022-01-28,Khon Kaen,56,F,Bangkok
+CUST-0073,regular,LINE_OA,True,2022-03-01,Bangkok,23,M,Phuket
+CUST-0074,high_value,online,False,2021-05-09,Bangkok,25,F,Phuket
+CUST-0075,regular,walk_in,True,2022-07-26,Khon Kaen,44,F,Bangkok
+CUST-0076,regular,LINE_OA,True,2021-01-29,Khon Kaen,26,M,Chonburi
+CUST-0077,regular,LINE_OA,True,2023-10-31,Chiang Mai,54,M,Khon Kaen
+CUST-0078,regular,online,True,2021-08-30,Chiang Mai,50,M,Bangkok
+CUST-0079,high_value,LINE_OA,True,2021-08-20,Chiang Mai,59,F,Vicinity
+CUST-0080,high_value,walk_in,True,2023-02-28,Chonburi,61,Unknown,Khon Kaen
+CUST-0081,occasional,walk_in,False,2022-12-16,Chiang Mai,41,M,Bangkok
+CUST-0082,regular,walk_in,False,2023-01-29,Khon Kaen,32,F,Chonburi
+CUST-0083,high_value,LINE_OA,False,2023-03-13,Bangkok,49,M,Bangkok
+CUST-0084,regular,online,True,2023-02-15,Chonburi,49,Unknown,Khon Kaen
+CUST-0085,occasional,online,True,2022-12-27,Chiang Mai,41,F,Phuket
+CUST-0086,regular,walk_in,True,2021-07-19,Chonburi,58,F,Phuket
+CUST-0087,occasional,walk_in,False,2023-08-03,Chonburi,29,F,Bangkok
+CUST-0088,high_value,online,False,2021-03-20,Chiang Mai,56,M,Khon Kaen
+CUST-0089,high_value,walk_in,True,2023-08-14,Chonburi,19,M,Chiang Mai
+CUST-0090,regular,LINE_OA,False,2023-05-06,Bangkok,20,M,Bangkok
+CUST-0091,regular,walk_in,True,2022-04-12,Khon Kaen,54,F,Chiang Mai
+CUST-0092,occasional,walk_in,False,2022-08-04,Khon Kaen,34,F,Bangkok
+CUST-0093,occasional,LINE_OA,False,2023-07-29,Bangkok,19,Unknown,Vicinity
+CUST-0094,new,walk_in,False,2022-03-25,Chonburi,19,Unknown,Bangkok
+CUST-0095,regular,online,False,2021-03-28,Chiang Mai,45,F,Bangkok
+CUST-0096,regular,online,False,2021-04-11,Chonburi,40,F,Bangkok
+CUST-0097,occasional,LINE_OA,True,2023-10-29,Bangkok,54,F,Chonburi
+CUST-0098,regular,LINE_OA,False,2023-04-25,Chonburi,49,F,Bangkok
+CUST-0099,regular,online,True,2021-03-28,Khon Kaen,50,M,Chonburi
+CUST-0100,high_value,walk_in,False,2021-02-12,Chonburi,18,F,Bangkok
+CUST-0101,high_value,LINE_OA,False,2022-02-12,Bangkok,36,M,Bangkok
+CUST-0102,new,online,False,2022-10-26,Khon Kaen,19,Unknown,Vicinity
+CUST-0103,occasional,online,False,2023-11-07,Chonburi,61,F,Chiang Mai
+CUST-0104,occasional,walk_in,False,2021-05-28,Chonburi,43,M,Bangkok
+CUST-0105,regular,walk_in,False,2021-10-04,Khon Kaen,49,F,Vicinity
+CUST-0106,regular,LINE_OA,False,2021-08-20,Chiang Mai,23,F,Khon Kaen
+CUST-0107,regular,LINE_OA,True,2022-01-01,Khon Kaen,49,M,Vicinity
+CUST-0108,regular,LINE_OA,True,2022-03-12,Chiang Mai,21,M,Bangkok
+CUST-0109,regular,walk_in,True,2022-02-03,Bangkok,28,F,Bangkok
+CUST-0110,occasional,LINE_OA,True,2022-05-14,Bangkok,34,F,Khon Kaen
+CUST-0111,occasional,LINE_OA,False,2022-06-24,Khon Kaen,55,F,Bangkok
+CUST-0112,regular,LINE_OA,True,2022-07-17,Khon Kaen,41,F,Khon Kaen
+CUST-0113,new,walk_in,False,2022-03-18,Bangkok,22,F,Vicinity
+CUST-0114,occasional,online,True,2023-02-12,Chiang Mai,51,F,Phuket
+CUST-0115,regular,LINE_OA,True,2021-12-16,Bangkok,23,F,Chiang Mai
+CUST-0116,occasional,LINE_OA,False,2022-06-04,Khon Kaen,39,F,Phuket
+CUST-0117,regular,walk_in,False,2021-05-18,Bangkok,28,M,Bangkok
+CUST-0118,regular,LINE_OA,False,2023-09-19,Khon Kaen,33,M,Chiang Mai
+CUST-0119,regular,LINE_OA,False,2022-01-03,Khon Kaen,50,M,Bangkok
+CUST-0120,occasional,LINE_OA,False,2021-12-26,Bangkok,26,F,Bangkok
+CUST-0121,high_value,LINE_OA,True,2023-07-10,Chiang Mai,23,F,Vicinity
+CUST-0122,high_value,LINE_OA,False,2021-11-25,Chonburi,33,F,Khon Kaen
+CUST-0123,high_value,LINE_OA,False,2023-08-20,Bangkok,46,M,Phuket
+CUST-0124,high_value,LINE_OA,False,2022-04-08,Chonburi,20,M,Chiang Mai
+CUST-0125,new,online,True,2023-08-04,Bangkok,37,M,Bangkok
+CUST-0126,occasional,LINE_OA,False,2023-08-21,Chonburi,53,M,Bangkok
+CUST-0127,regular,walk_in,True,2023-04-16,Chiang Mai,36,F,Chonburi
+CUST-0128,high_value,walk_in,True,2021-06-18,Chiang Mai,43,M,Bangkok
+CUST-0129,regular,LINE_OA,True,2021-08-05,Bangkok,20,M,Bangkok
+CUST-0130,regular,walk_in,False,2022-01-13,Khon Kaen,36,F,Bangkok
+CUST-0131,regular,LINE_OA,False,2021-04-29,Chonburi,37,M,Bangkok
+CUST-0132,regular,online,False,2021-07-09,Khon Kaen,49,F,Bangkok
+CUST-0133,regular,LINE_OA,False,2023-02-06,Khon Kaen,24,F,Bangkok
+CUST-0134,occasional,LINE_OA,False,2022-01-05,Khon Kaen,58,M,Bangkok
+CUST-0135,occasional,LINE_OA,True,2021-05-29,Chiang Mai,50,F,Bangkok
+CUST-0136,high_value,online,True,2022-10-14,Bangkok,57,F,Phuket
+CUST-0137,regular,walk_in,False,2023-02-09,Bangkok,56,F,Bangkok
+CUST-0138,occasional,walk_in,True,2022-01-09,Chiang Mai,35,M,Bangkok
+CUST-0139,regular,LINE_OA,False,2023-02-20,Chiang Mai,57,F,Chonburi
+CUST-0140,new,walk_in,False,2021-06-09,Bangkok,18,F,Bangkok
+CUST-0141,occasional,LINE_OA,False,2021-12-17,Khon Kaen,28,M,Phuket
+CUST-0142,regular,online,False,2023-06-11,Chonburi,45,F,Chiang Mai
+CUST-0143,high_value,LINE_OA,False,2022-06-07,Chonburi,42,Unknown,Bangkok
+CUST-0144,occasional,LINE_OA,False,2022-06-06,Chonburi,40,F,Bangkok
+CUST-0145,high_value,LINE_OA,False,2023-02-22,Khon Kaen,48,M,Khon Kaen
+CUST-0146,regular,LINE_OA,False,2021-09-30,Bangkok,47,F,Phuket
+CUST-0147,new,walk_in,True,2023-07-25,Chiang Mai,59,M,Bangkok
+CUST-0148,regular,LINE_OA,False,2021-07-02,Bangkok,52,M,Vicinity
+CUST-0149,regular,walk_in,False,2022-05-03,Khon Kaen,24,M,Bangkok
+CUST-0150,occasional,LINE_OA,True,2023-04-26,Chiang Mai,33,M,Phuket
+CUST-0151,regular,walk_in,False,2021-05-04,Khon Kaen,43,M,Bangkok
+CUST-0152,regular,LINE_OA,False,2023-09-12,Chonburi,19,M,Phuket
+CUST-0153,new,LINE_OA,False,2023-03-01,Chonburi,18,F,Vicinity
+CUST-0154,regular,walk_in,True,2022-02-18,Khon Kaen,29,M,Vicinity
+CUST-0155,new,LINE_OA,False,2022-11-17,Chiang Mai,22,M,Vicinity
+CUST-0156,new,LINE_OA,False,2021-04-23,Chiang Mai,54,F,Bangkok
+CUST-0157,regular,online,True,2023-06-07,Bangkok,49,F,Bangkok
+CUST-0158,high_value,online,True,2021-05-02,Chonburi,26,F,Bangkok
+CUST-0159,high_value,LINE_OA,False,2021-02-08,Bangkok,58,M,Bangkok
+CUST-0160,high_value,LINE_OA,True,2022-05-12,Bangkok,52,M,Chiang Mai
+CUST-0161,high_value,walk_in,False,2023-02-19,Khon Kaen,36,M,Bangkok
+CUST-0162,occasional,LINE_OA,False,2023-08-01,Khon Kaen,33,M,Bangkok
+CUST-0163,high_value,LINE_OA,True,2021-05-29,Bangkok,20,M,Phuket
+CUST-0164,regular,LINE_OA,False,2023-10-19,Chonburi,37,M,Khon Kaen
+CUST-0165,occasional,walk_in,False,2022-10-23,Khon Kaen,41,M,Khon Kaen
+CUST-0166,high_value,walk_in,False,2021-10-29,Bangkok,50,M,Phuket
+CUST-0167,occasional,LINE_OA,True,2021-08-26,Bangkok,41,F,Bangkok
+CUST-0168,regular,LINE_OA,False,2022-10-09,Bangkok,28,M,Bangkok
+CUST-0169,high_value,LINE_OA,True,2022-10-25,Bangkok,25,M,Chiang Mai
+CUST-0170,occasional,walk_in,True,2021-08-24,Bangkok,53,F,Chonburi
+CUST-0171,occasional,LINE_OA,False,2021-07-22,Bangkok,55,F,Bangkok
+CUST-0172,new,LINE_OA,True,2021-09-13,Khon Kaen,57,M,Chiang Mai
+CUST-0173,occasional,walk_in,False,2022-08-21,Chonburi,37,F,Bangkok
+CUST-0174,occasional,LINE_OA,True,2022-10-24,Bangkok,52,F,Bangkok
+CUST-0175,regular,walk_in,False,2021-08-23,Chiang Mai,42,M,Vicinity
+CUST-0176,regular,LINE_OA,True,2022-06-18,Khon Kaen,52,F,Vicinity
+CUST-0177,occasional,LINE_OA,False,2023-05-10,Khon Kaen,42,F,Vicinity
+CUST-0178,occasional,LINE_OA,False,2023-02-09,Bangkok,46,M,Bangkok
+CUST-0179,new,walk_in,True,2022-06-25,Khon Kaen,35,M,Khon Kaen
+CUST-0180,regular,online,True,2021-08-01,Bangkok,63,F,Bangkok
+CUST-0181,regular,walk_in,True,2022-04-08,Chonburi,35,F,Bangkok
+CUST-0182,occasional,LINE_OA,False,2022-03-12,Chonburi,19,M,Khon Kaen
+CUST-0183,regular,walk_in,True,2021-10-10,Khon Kaen,52,M,Phuket
+CUST-0184,new,LINE_OA,False,2021-03-29,Khon Kaen,33,M,Khon Kaen
+CUST-0185,new,LINE_OA,False,2023-12-04,Chiang Mai,58,F,Chiang Mai
+CUST-0186,regular,online,True,2022-04-06,Khon Kaen,53,F,Chonburi
+CUST-0187,occasional,LINE_OA,False,2021-10-05,Chiang Mai,50,M,Vicinity
+CUST-0188,occasional,LINE_OA,False,2022-02-25,Chonburi,21,F,Bangkok
+CUST-0189,high_value,LINE_OA,True,2022-11-27,Chonburi,50,F,Bangkok
+CUST-0190,new,LINE_OA,True,2022-05-30,Bangkok,31,M,Bangkok
+CUST-0191,regular,LINE_OA,True,2022-12-04,Chonburi,38,M,Bangkok
+CUST-0192,occasional,walk_in,False,2021-01-19,Chiang Mai,37,F,Chonburi
+CUST-0193,regular,LINE_OA,False,2021-01-23,Khon Kaen,25,F,Bangkok
+CUST-0194,new,online,False,2022-02-17,Bangkok,24,F,Bangkok
+CUST-0195,regular,walk_in,False,2023-11-20,Chiang Mai,20,F,Bangkok
+CUST-0196,high_value,LINE_OA,False,2021-04-18,Khon Kaen,34,M,Chonburi
+CUST-0197,new,LINE_OA,False,2021-05-16,Bangkok,50,M,Bangkok
+CUST-0198,high_value,LINE_OA,False,2021-12-28,Chonburi,29,F,Khon Kaen
+CUST-0199,regular,walk_in,True,2021-05-09,Chiang Mai,39,M,Bangkok
+CUST-0200,new,LINE_OA,True,2022-05-30,Khon Kaen,39,M,Bangkok
+CUST-0201,new,walk_in,True,2022-03-25,Bangkok,63,M,Vicinity
+CUST-0202,regular,LINE_OA,True,2023-05-24,Bangkok,47,M,Chiang Mai
+CUST-0203,occasional,walk_in,False,2022-04-18,Chonburi,55,M,Bangkok
+CUST-0204,regular,LINE_OA,False,2023-10-31,Khon Kaen,55,M,Chonburi
+CUST-0205,regular,LINE_OA,True,2021-10-29,Chonburi,62,M,Vicinity
+CUST-0206,regular,online,True,2021-08-19,Chonburi,25,M,Bangkok
+CUST-0207,occasional,walk_in,False,2023-07-12,Khon Kaen,44,F,Khon Kaen
+CUST-0208,occasional,LINE_OA,False,2023-12-26,Khon Kaen,44,F,Chiang Mai
+CUST-0209,occasional,online,True,2023-07-26,Khon Kaen,51,F,Chonburi
+CUST-0210,occasional,LINE_OA,False,2021-04-22,Chiang Mai,38,F,Khon Kaen
+CUST-0211,high_value,online,True,2023-11-03,Khon Kaen,47,F,Khon Kaen
+CUST-0212,regular,walk_in,True,2022-05-15,Bangkok,50,M,Chonburi
+CUST-0213,high_value,LINE_OA,False,2023-07-21,Chonburi,45,F,Chiang Mai
+CUST-0214,regular,LINE_OA,False,2022-08-21,Chiang Mai,64,F,Chonburi
+CUST-0215,regular,LINE_OA,True,2021-08-22,Khon Kaen,50,F,Chonburi
+CUST-0216,new,walk_in,False,2022-08-25,Chiang Mai,22,M,Vicinity
+CUST-0217,regular,walk_in,False,2021-11-10,Khon Kaen,36,M,Chiang Mai
+CUST-0218,high_value,LINE_OA,False,2022-07-20,Chiang Mai,21,M,Bangkok
+CUST-0219,high_value,LINE_OA,False,2023-11-02,Chonburi,52,M,Khon Kaen
+CUST-0220,occasional,walk_in,False,2021-07-28,Chonburi,34,F,Khon Kaen
+CUST-0221,occasional,online,False,2023-11-04,Bangkok,61,F,Bangkok
+CUST-0222,high_value,walk_in,False,2023-11-10,Bangkok,45,M,Chiang Mai
+CUST-0223,high_value,LINE_OA,True,2022-08-10,Khon Kaen,47,Unknown,Bangkok
+CUST-0224,occasional,LINE_OA,True,2023-10-12,Chonburi,46,F,Bangkok
+CUST-0225,high_value,LINE_OA,True,2023-12-30,Chiang Mai,63,M,Chonburi
+CUST-0226,occasional,online,False,2022-11-29,Chiang Mai,23,M,Bangkok
+CUST-0227,occasional,LINE_OA,True,2021-05-12,Chiang Mai,52,M,Chiang Mai
+CUST-0228,high_value,walk_in,False,2023-11-10,Bangkok,58,M,Chiang Mai
+CUST-0229,high_value,LINE_OA,False,2022-06-20,Chiang Mai,54,M,Vicinity
+CUST-0230,new,walk_in,True,2023-10-11,Bangkok,41,M,Bangkok
+CUST-0231,regular,walk_in,False,2021-08-15,Bangkok,46,M,Bangkok
+CUST-0232,regular,walk_in,False,2023-04-02,Khon Kaen,63,M,Vicinity
+CUST-0233,occasional,LINE_OA,False,2023-05-21,Chiang Mai,48,F,Phuket
+CUST-0234,new,LINE_OA,True,2022-02-09,Chiang Mai,52,M,Vicinity
+CUST-0235,new,LINE_OA,False,2021-07-21,Chonburi,50,F,Bangkok
+CUST-0236,occasional,online,False,2021-02-07,Khon Kaen,38,M,Vicinity
+CUST-0237,regular,online,False,2023-07-31,Chonburi,49,Unknown,Vicinity
+CUST-0238,high_value,walk_in,False,2021-07-07,Khon Kaen,40,M,Chiang Mai
+CUST-0239,occasional,walk_in,False,2023-12-17,Chiang Mai,50,M,Bangkok
+CUST-0240,regular,walk_in,False,2023-07-30,Bangkok,20,Unknown,Chiang Mai
+CUST-0241,regular,LINE_OA,False,2023-11-10,Bangkok,35,F,Vicinity
+CUST-0242,new,online,False,2021-09-30,Bangkok,42,F,Phuket
+CUST-0243,high_value,LINE_OA,True,2022-08-06,Bangkok,59,M,Bangkok
+CUST-0244,regular,LINE_OA,False,2022-05-31,Bangkok,48,M,Vicinity
+CUST-0245,high_value,walk_in,False,2022-06-10,Chonburi,20,F,Phuket
+CUST-0246,regular,LINE_OA,False,2021-12-02,Khon Kaen,57,F,Bangkok
+CUST-0247,high_value,LINE_OA,True,2022-11-29,Chiang Mai,63,F,Phuket
+CUST-0248,high_value,walk_in,False,2023-12-15,Chonburi,41,F,Chonburi
+CUST-0249,high_value,LINE_OA,True,2022-05-15,Khon Kaen,49,M,Bangkok
+CUST-0250,occasional,walk_in,False,2023-06-19,Bangkok,64,F,Bangkok
+CUST-0251,occasional,LINE_OA,True,2023-02-05,Khon Kaen,39,M,Chonburi
+CUST-0252,regular,LINE_OA,False,2022-06-20,Khon Kaen,40,M,Bangkok
+CUST-0253,new,LINE_OA,False,2021-06-11,Bangkok,19,M,Vicinity
+CUST-0254,regular,LINE_OA,True,2022-08-17,Bangkok,44,F,Bangkok
+CUST-0255,regular,walk_in,False,2021-06-08,Bangkok,59,M,Vicinity
+CUST-0256,new,LINE_OA,False,2021-03-01,Chiang Mai,19,M,Bangkok
+CUST-0257,regular,walk_in,False,2023-07-04,Bangkok,43,F,Khon Kaen
+CUST-0258,new,LINE_OA,False,2021-07-30,Chiang Mai,34,M,Phuket
+CUST-0259,high_value,walk_in,False,2022-02-10,Bangkok,57,F,Phuket
+CUST-0260,new,online,False,2022-10-26,Chiang Mai,50,M,Chonburi
+CUST-0261,high_value,walk_in,False,2022-06-26,Khon Kaen,26,F,Bangkok
+CUST-0262,new,LINE_OA,False,2023-09-25,Chonburi,60,F,Chiang Mai
+CUST-0263,regular,LINE_OA,True,2023-07-16,Khon Kaen,56,M,Bangkok
+CUST-0264,new,LINE_OA,False,2023-05-18,Khon Kaen,46,M,Bangkok
+CUST-0265,high_value,walk_in,False,2021-01-19,Bangkok,59,M,Bangkok
+CUST-0266,regular,LINE_OA,False,2022-03-08,Chiang Mai,43,M,Bangkok
+CUST-0267,new,LINE_OA,False,2023-01-10,Chonburi,52,Unknown,Chiang Mai
+CUST-0268,regular,walk_in,False,2021-07-02,Bangkok,42,M,Chonburi
+CUST-0269,occasional,LINE_OA,False,2021-04-23,Bangkok,41,F,Bangkok
+CUST-0270,occasional,walk_in,True,2022-04-26,Bangkok,30,M,Bangkok
+CUST-0271,regular,LINE_OA,False,2023-04-11,Khon Kaen,24,F,Phuket
+CUST-0272,occasional,LINE_OA,True,2023-02-02,Chiang Mai,53,F,Bangkok
+CUST-0273,regular,walk_in,True,2022-04-21,Chiang Mai,62,F,Bangkok
+CUST-0274,new,LINE_OA,True,2023-02-02,Chonburi,37,F,Bangkok
+CUST-0275,high_value,walk_in,True,2023-08-29,Chiang Mai,18,M,Chiang Mai
+CUST-0276,regular,LINE_OA,False,2023-10-17,Chiang Mai,25,M,Chonburi
+CUST-0277,new,LINE_OA,True,2021-06-10,Bangkok,63,F,Bangkok
+CUST-0278,new,walk_in,False,2022-02-05,Bangkok,33,F,Bangkok
+CUST-0279,regular,walk_in,True,2021-07-17,Khon Kaen,31,Unknown,Chonburi
+CUST-0280,occasional,walk_in,True,2022-10-22,Bangkok,29,M,Chonburi
+CUST-0281,regular,LINE_OA,True,2023-12-07,Bangkok,40,F,Bangkok
+CUST-0282,regular,walk_in,True,2022-02-03,Bangkok,32,F,Phuket
+CUST-0283,regular,LINE_OA,False,2021-03-19,Bangkok,45,M,Bangkok
+CUST-0284,regular,LINE_OA,False,2021-05-04,Khon Kaen,51,M,Bangkok
+CUST-0285,regular,online,False,2021-03-16,Bangkok,19,F,Phuket
+CUST-0286,high_value,LINE_OA,False,2021-05-17,Chonburi,49,F,Bangkok
+CUST-0287,new,online,True,2022-08-25,Chonburi,40,F,Vicinity
+CUST-0288,new,LINE_OA,False,2023-04-17,Chonburi,39,M,Bangkok
+CUST-0289,occasional,LINE_OA,False,2022-05-15,Chonburi,42,F,Bangkok
+CUST-0290,regular,walk_in,False,2021-05-18,Bangkok,39,M,Phuket
+CUST-0291,regular,online,True,2021-02-19,Chonburi,39,M,Bangkok
+CUST-0292,occasional,walk_in,True,2023-08-31,Bangkok,59,M,Khon Kaen
+CUST-0293,occasional,walk_in,True,2021-09-11,Khon Kaen,23,F,Bangkok
+CUST-0294,regular,walk_in,True,2022-12-11,Chonburi,32,F,Bangkok
+CUST-0295,new,walk_in,False,2022-07-17,Chiang Mai,60,F,Bangkok
+CUST-0296,occasional,walk_in,False,2023-01-27,Chonburi,54,M,Chonburi
+CUST-0297,new,LINE_OA,False,2022-07-01,Chonburi,50,F,Bangkok
+CUST-0298,occasional,LINE_OA,False,2023-07-11,Bangkok,25,M,Khon Kaen
+CUST-0299,occasional,LINE_OA,False,2022-08-04,Chonburi,61,F,Bangkok
+CUST-0300,regular,online,False,2021-02-18,Chiang Mai,61,M,Phuket
+CUST-0301,new,online,False,2023-07-06,Bangkok,22,M,Bangkok
+CUST-0302,new,LINE_OA,True,2022-12-05,Bangkok,56,F,Khon Kaen
+CUST-0303,high_value,walk_in,True,2021-09-18,Khon Kaen,21,M,Chiang Mai
+CUST-0304,high_value,online,True,2021-12-22,Khon Kaen,23,F,Chiang Mai
+CUST-0305,regular,LINE_OA,False,2022-09-30,Chonburi,62,F,Chiang Mai
+CUST-0306,occasional,walk_in,False,2023-01-13,Khon Kaen,49,M,Chiang Mai
+CUST-0307,new,online,True,2023-10-07,Khon Kaen,47,F,Vicinity
+CUST-0308,regular,LINE_OA,False,2023-07-20,Khon Kaen,64,M,Bangkok
+CUST-0309,regular,walk_in,True,2022-10-03,Bangkok,52,F,Bangkok
+CUST-0310,regular,LINE_OA,False,2023-03-03,Bangkok,57,F,Khon Kaen
+CUST-0311,new,online,True,2022-09-04,Bangkok,33,F,Vicinity
+CUST-0312,occasional,online,True,2023-03-20,Khon Kaen,30,M,Chiang Mai
+CUST-0313,occasional,online,False,2022-11-17,Bangkok,59,F,Bangkok
+CUST-0314,regular,LINE_OA,True,2021-07-07,Khon Kaen,47,F,Bangkok
+CUST-0315,regular,online,True,2023-09-12,Bangkok,36,M,Bangkok
+CUST-0316,regular,walk_in,True,2022-07-02,Bangkok,34,M,Chonburi
+CUST-0317,high_value,LINE_OA,False,2022-12-26,Chiang Mai,36,F,Bangkok
+CUST-0318,new,walk_in,False,2023-07-15,Chonburi,45,F,Bangkok
+CUST-0319,occasional,LINE_OA,True,2023-05-26,Khon Kaen,43,F,Bangkok
+CUST-0320,new,walk_in,False,2022-09-10,Chiang Mai,54,F,Bangkok
+CUST-0321,new,LINE_OA,False,2022-02-18,Bangkok,43,F,Vicinity
+CUST-0322,regular,LINE_OA,True,2023-06-22,Khon Kaen,40,M,Bangkok
+CUST-0323,occasional,LINE_OA,False,2021-06-12,Bangkok,26,M,Chiang Mai
+CUST-0324,new,walk_in,True,2021-09-27,Chonburi,29,M,Bangkok
+CUST-0325,occasional,LINE_OA,True,2022-09-24,Chiang Mai,18,F,Bangkok
+CUST-0326,regular,walk_in,False,2023-06-25,Chonburi,18,M,Bangkok
+CUST-0327,regular,LINE_OA,True,2021-07-24,Chiang Mai,64,F,Bangkok
+CUST-0328,high_value,LINE_OA,False,2022-08-05,Bangkok,51,F,Bangkok
+CUST-0329,new,walk_in,False,2023-04-21,Chonburi,49,F,Bangkok
+CUST-0330,occasional,walk_in,True,2022-08-19,Chonburi,42,M,Vicinity
+CUST-0331,regular,LINE_OA,False,2021-09-07,Bangkok,57,F,Bangkok
+CUST-0332,occasional,walk_in,True,2023-05-25,Chonburi,62,M,Chonburi
+CUST-0333,occasional,online,False,2021-07-15,Khon Kaen,18,F,Khon Kaen
+CUST-0334,regular,walk_in,False,2022-11-21,Chiang Mai,33,M,Chiang Mai
+CUST-0335,high_value,LINE_OA,False,2023-12-30,Chiang Mai,56,M,Bangkok
+CUST-0336,occasional,LINE_OA,False,2022-10-01,Chiang Mai,22,F,Bangkok
+CUST-0337,regular,online,True,2022-11-03,Khon Kaen,39,M,Bangkok
+CUST-0338,occasional,LINE_OA,False,2023-08-02,Chiang Mai,46,M,Bangkok
+CUST-0339,regular,online,False,2021-07-18,Bangkok,20,F,Phuket
+CUST-0340,new,walk_in,False,2022-05-07,Chonburi,29,F,Bangkok
+CUST-0341,regular,online,False,2023-06-15,Khon Kaen,43,F,Bangkok
+CUST-0342,regular,walk_in,False,2021-05-22,Chiang Mai,33,F,Vicinity
+CUST-0343,new,online,True,2021-06-14,Bangkok,54,F,Chonburi
+CUST-0344,regular,LINE_OA,True,2021-11-10,Chonburi,39,M,Vicinity
+CUST-0345,high_value,walk_in,False,2021-01-21,Chonburi,46,M,Bangkok
+CUST-0346,high_value,LINE_OA,False,2023-09-11,Khon Kaen,31,M,Bangkok
+CUST-0347,occasional,LINE_OA,False,2021-11-01,Khon Kaen,45,F,Vicinity
+CUST-0348,occasional,walk_in,False,2022-01-06,Khon Kaen,22,F,Bangkok
+CUST-0349,occasional,online,True,2023-05-03,Bangkok,64,M,Bangkok
+CUST-0350,regular,online,True,2022-01-19,Bangkok,47,F,Bangkok
+CUST-0351,high_value,walk_in,False,2022-03-21,Khon Kaen,63,F,Bangkok
+CUST-0352,high_value,LINE_OA,True,2022-03-01,Chiang Mai,22,M,Bangkok
+CUST-0353,regular,LINE_OA,False,2021-06-10,Chonburi,29,F,Bangkok
+CUST-0354,regular,walk_in,False,2022-09-21,Chonburi,33,F,Vicinity
+CUST-0355,regular,LINE_OA,False,2023-06-14,Bangkok,43,F,Chonburi
+CUST-0356,regular,LINE_OA,True,2022-05-05,Chonburi,43,M,Chiang Mai
+CUST-0357,new,LINE_OA,False,2023-10-14,Chiang Mai,38,F,Bangkok
+CUST-0358,regular,LINE_OA,False,2021-11-23,Chonburi,56,F,Bangkok
+CUST-0359,regular,LINE_OA,False,2022-08-21,Bangkok,53,F,Bangkok
+CUST-0360,occasional,LINE_OA,True,2023-10-12,Bangkok,50,F,Vicinity
+CUST-0361,regular,LINE_OA,False,2021-10-16,Chiang Mai,47,F,Chonburi
+CUST-0362,occasional,LINE_OA,False,2022-08-16,Chiang Mai,54,F,Bangkok
+CUST-0363,new,online,True,2022-07-27,Chonburi,40,M,Phuket
+CUST-0364,new,LINE_OA,True,2021-01-28,Chonburi,27,F,Bangkok
+CUST-0365,high_value,LINE_OA,True,2023-08-12,Bangkok,22,F,Vicinity
+CUST-0366,new,walk_in,False,2021-02-12,Chiang Mai,53,M,Chonburi
+CUST-0367,regular,LINE_OA,False,2022-02-27,Chiang Mai,51,F,Khon Kaen
+CUST-0368,regular,online,False,2021-06-26,Chiang Mai,48,F,Chonburi
+CUST-0369,regular,walk_in,True,2022-06-13,Chonburi,27,F,Chiang Mai
+CUST-0370,new,LINE_OA,True,2023-08-24,Chiang Mai,36,F,Bangkok
+CUST-0371,regular,LINE_OA,False,2021-07-17,Bangkok,49,M,Chiang Mai
+CUST-0372,regular,online,False,2022-09-02,Bangkok,18,Unknown,Bangkok
+CUST-0373,occasional,online,False,2023-04-22,Chonburi,22,F,Khon Kaen
+CUST-0374,regular,LINE_OA,True,2023-05-03,Khon Kaen,62,M,Vicinity
+CUST-0375,high_value,walk_in,False,2021-01-22,Chonburi,21,F,Chiang Mai
+CUST-0376,high_value,LINE_OA,False,2023-12-17,Khon Kaen,33,F,Bangkok
+CUST-0377,high_value,online,False,2023-12-26,Chiang Mai,41,F,Vicinity
+CUST-0378,regular,LINE_OA,False,2023-04-22,Chonburi,33,F,Vicinity
+CUST-0379,high_value,online,False,2021-04-08,Bangkok,19,M,Chonburi
+CUST-0380,occasional,walk_in,False,2022-03-11,Chiang Mai,45,M,Bangkok
+CUST-0381,regular,walk_in,True,2022-09-29,Bangkok,49,M,Bangkok
+CUST-0382,regular,walk_in,True,2022-08-11,Chiang Mai,44,F,Bangkok
+CUST-0383,new,LINE_OA,False,2021-12-10,Chonburi,37,M,Bangkok
+CUST-0384,regular,LINE_OA,False,2022-07-25,Khon Kaen,41,M,Khon Kaen
+CUST-0385,occasional,LINE_OA,True,2022-09-03,Chiang Mai,29,M,Bangkok
+CUST-0386,regular,LINE_OA,True,2021-08-31,Khon Kaen,52,F,Phuket
+CUST-0387,regular,walk_in,True,2022-07-15,Chiang Mai,50,F,Bangkok
+CUST-0388,high_value,LINE_OA,False,2023-08-18,Bangkok,50,M,Bangkok
+CUST-0389,regular,LINE_OA,True,2021-02-01,Bangkok,60,M,Chiang Mai
+CUST-0390,regular,online,True,2022-01-26,Chiang Mai,54,F,Chonburi
+CUST-0391,regular,online,True,2021-10-04,Khon Kaen,29,F,Bangkok
+CUST-0392,high_value,online,True,2022-06-16,Chonburi,20,M,Vicinity
+CUST-0393,high_value,online,True,2022-01-18,Chonburi,18,F,Chonburi
+CUST-0394,regular,LINE_OA,False,2023-12-28,Bangkok,50,M,Bangkok
+CUST-0395,regular,LINE_OA,True,2023-06-03,Chonburi,57,M,Phuket
+CUST-0396,regular,walk_in,False,2021-08-02,Bangkok,27,F,Phuket
+CUST-0397,regular,walk_in,True,2022-01-11,Chonburi,60,M,Chonburi
+CUST-0398,occasional,LINE_OA,False,2023-01-14,Chiang Mai,61,F,Bangkok
+CUST-0399,high_value,walk_in,False,2021-08-01,Bangkok,46,M,Chonburi
+CUST-0400,occasional,LINE_OA,False,2021-03-20,Bangkok,30,F,Bangkok
+CUST-0401,occasional,LINE_OA,False,2022-09-20,Chiang Mai,29,F,Bangkok
+CUST-0402,high_value,walk_in,True,2022-08-27,Bangkok,48,M,Bangkok
+CUST-0403,new,walk_in,True,2023-02-21,Chonburi,63,F,Bangkok
+CUST-0404,new,walk_in,False,2023-09-28,Chonburi,19,M,Khon Kaen
+CUST-0405,high_value,LINE_OA,False,2022-11-11,Bangkok,52,Unknown,Chonburi
+CUST-0406,regular,online,False,2021-02-27,Chonburi,40,M,Chonburi
+CUST-0407,occasional,LINE_OA,False,2023-11-16,Khon Kaen,34,M,Bangkok
+CUST-0408,occasional,LINE_OA,False,2023-05-31,Bangkok,43,M,Bangkok
+CUST-0409,regular,online,False,2022-03-23,Chiang Mai,25,Unknown,Bangkok
+CUST-0410,regular,online,True,2021-03-07,Khon Kaen,46,F,Phuket
+CUST-0411,regular,online,False,2023-12-04,Bangkok,43,F,Bangkok
+CUST-0412,regular,walk_in,False,2023-10-09,Chiang Mai,27,M,Khon Kaen
+CUST-0413,occasional,walk_in,True,2021-08-15,Chonburi,43,F,Vicinity
+CUST-0414,regular,walk_in,False,2023-02-13,Chiang Mai,51,M,Bangkok
+CUST-0415,regular,LINE_OA,True,2022-11-10,Khon Kaen,58,F,Chonburi
+CUST-0416,occasional,LINE_OA,False,2022-08-24,Chonburi,24,M,Bangkok
+CUST-0417,high_value,LINE_OA,True,2022-01-14,Bangkok,21,M,Khon Kaen
+CUST-0418,regular,LINE_OA,False,2022-12-10,Chonburi,62,M,Khon Kaen
+CUST-0419,occasional,walk_in,False,2021-11-03,Bangkok,28,F,Bangkok
+CUST-0420,new,LINE_OA,True,2023-02-18,Bangkok,46,F,Bangkok
+CUST-0421,regular,LINE_OA,False,2022-05-19,Chiang Mai,53,M,Vicinity
+CUST-0422,regular,LINE_OA,False,2021-09-25,Chiang Mai,42,F,Khon Kaen
+CUST-0423,high_value,walk_in,False,2021-01-08,Chiang Mai,38,F,Bangkok
+CUST-0424,regular,LINE_OA,True,2022-05-23,Khon Kaen,53,F,Vicinity
+CUST-0425,regular,online,True,2022-04-21,Khon Kaen,27,M,Vicinity
+CUST-0426,regular,LINE_OA,True,2021-06-13,Chiang Mai,54,M,Chonburi
+CUST-0427,regular,LINE_OA,False,2022-04-30,Khon Kaen,26,F,Bangkok
+CUST-0428,regular,walk_in,False,2024-01-01,Chonburi,41,M,Chonburi
+CUST-0429,high_value,walk_in,False,2022-07-21,Chonburi,52,M,Khon Kaen
+CUST-0430,regular,LINE_OA,False,2023-06-24,Khon Kaen,52,F,Bangkok
+CUST-0431,regular,walk_in,False,2022-07-13,Khon Kaen,53,F,Bangkok
+CUST-0432,regular,walk_in,False,2021-08-26,Chonburi,35,M,Phuket
+CUST-0433,high_value,LINE_OA,True,2022-07-08,Bangkok,56,M,Bangkok
+CUST-0434,new,online,False,2023-04-08,Chonburi,49,F,Khon Kaen
+CUST-0435,regular,walk_in,True,2022-04-13,Chonburi,41,M,Bangkok
+CUST-0436,occasional,walk_in,False,2022-01-21,Khon Kaen,40,M,Bangkok
+CUST-0437,occasional,online,False,2023-02-14,Chonburi,49,M,Khon Kaen
+CUST-0438,regular,online,False,2023-04-28,Khon Kaen,54,F,Bangkok
+CUST-0439,high_value,walk_in,True,2022-01-22,Khon Kaen,29,F,Vicinity
+CUST-0440,regular,walk_in,True,2023-05-27,Chiang Mai,30,M,Bangkok
+CUST-0441,regular,walk_in,True,2021-09-16,Chonburi,40,M,Vicinity
+CUST-0442,occasional,walk_in,True,2021-10-10,Bangkok,42,M,Bangkok
+CUST-0443,regular,walk_in,True,2021-02-09,Chiang Mai,52,F,Bangkok
+CUST-0444,high_value,walk_in,False,2022-05-01,Khon Kaen,58,M,Phuket
+CUST-0445,regular,LINE_OA,False,2023-07-18,Khon Kaen,47,M,Bangkok
+CUST-0446,regular,online,True,2021-08-08,Bangkok,34,F,Chonburi
+CUST-0447,occasional,online,True,2023-10-12,Khon Kaen,37,M,Bangkok
+CUST-0448,regular,LINE_OA,False,2023-10-21,Chonburi,42,F,Chiang Mai
+CUST-0449,regular,walk_in,False,2022-09-05,Chiang Mai,39,M,Bangkok
+CUST-0450,new,LINE_OA,False,2023-07-17,Khon Kaen,30,M,Phuket
+CUST-0451,occasional,LINE_OA,False,2022-11-19,Khon Kaen,36,M,Bangkok
+CUST-0452,regular,walk_in,False,2022-09-05,Bangkok,53,F,Bangkok
+CUST-0453,high_value,LINE_OA,False,2021-09-17,Chonburi,29,F,Bangkok
+CUST-0454,regular,walk_in,False,2023-09-17,Khon Kaen,58,F,Bangkok
+CUST-0455,regular,walk_in,True,2023-08-24,Bangkok,36,M,Vicinity
+CUST-0456,regular,walk_in,False,2022-01-01,Khon Kaen,29,F,Bangkok
+CUST-0457,regular,LINE_OA,True,2022-06-28,Bangkok,26,M,Chiang Mai
+CUST-0458,regular,LINE_OA,False,2022-10-11,Bangkok,24,M,Bangkok
+CUST-0459,regular,walk_in,True,2023-03-25,Chonburi,45,F,Bangkok
+CUST-0460,new,online,False,2023-11-06,Khon Kaen,31,M,Vicinity
+CUST-0461,high_value,walk_in,False,2022-07-29,Chonburi,48,M,Chonburi
+CUST-0462,regular,LINE_OA,False,2023-10-10,Bangkok,36,M,Bangkok
+CUST-0463,regular,walk_in,False,2022-11-01,Chiang Mai,64,M,Bangkok
+CUST-0464,new,walk_in,True,2021-09-26,Khon Kaen,33,M,Bangkok
+CUST-0465,high_value,walk_in,True,2023-07-13,Chiang Mai,22,F,Chonburi
+CUST-0466,regular,LINE_OA,False,2021-09-04,Khon Kaen,52,M,Chonburi
+CUST-0467,new,walk_in,True,2021-05-11,Chonburi,29,F,Bangkok
+CUST-0468,new,walk_in,False,2021-12-19,Chonburi,42,F,Chiang Mai
+CUST-0469,occasional,online,True,2021-07-15,Chonburi,38,M,Chiang Mai
+CUST-0470,regular,LINE_OA,False,2023-07-19,Chonburi,53,M,Vicinity
+CUST-0471,regular,walk_in,False,2023-10-19,Chonburi,40,M,Khon Kaen
+CUST-0472,occasional,online,False,2022-10-07,Chiang Mai,33,F,Bangkok
+CUST-0473,new,LINE_OA,True,2021-08-15,Chonburi,56,M,Bangkok
+CUST-0474,regular,online,False,2022-12-02,Bangkok,62,F,Bangkok
+CUST-0475,regular,walk_in,False,2021-09-22,Bangkok,59,M,Bangkok
+CUST-0476,regular,LINE_OA,False,2022-10-08,Chiang Mai,56,F,Vicinity
+CUST-0477,occasional,LINE_OA,False,2021-07-30,Khon Kaen,31,M,Phuket
+CUST-0478,regular,walk_in,False,2023-08-01,Bangkok,48,M,Bangkok
+CUST-0479,regular,LINE_OA,True,2022-04-02,Khon Kaen,22,F,Bangkok
+CUST-0480,regular,walk_in,False,2022-12-26,Chiang Mai,52,F,Bangkok
+CUST-0481,regular,LINE_OA,True,2023-09-09,Khon Kaen,40,M,Phuket
+CUST-0482,regular,walk_in,True,2022-08-11,Khon Kaen,46,F,Bangkok
+CUST-0483,high_value,LINE_OA,True,2022-04-21,Khon Kaen,60,F,Vicinity
+CUST-0484,occasional,online,True,2023-09-13,Khon Kaen,28,F,Bangkok
+CUST-0485,regular,online,True,2021-06-05,Chiang Mai,35,F,Bangkok
+CUST-0486,regular,online,True,2021-07-09,Bangkok,64,M,Phuket
+CUST-0487,regular,walk_in,False,2023-09-08,Chonburi,29,M,Phuket
+CUST-0488,regular,LINE_OA,False,2022-06-30,Khon Kaen,26,M,Bangkok
+CUST-0489,regular,walk_in,False,2021-02-10,Bangkok,27,F,Phuket
+CUST-0490,high_value,LINE_OA,False,2021-11-03,Bangkok,61,F,Vicinity
+CUST-0491,regular,LINE_OA,True,2023-08-01,Chiang Mai,34,M,Khon Kaen
+CUST-0492,high_value,LINE_OA,False,2021-12-04,Bangkok,55,M,Bangkok
+CUST-0493,high_value,LINE_OA,False,2023-08-11,Chiang Mai,24,F,Vicinity
+CUST-0494,new,walk_in,True,2021-10-06,Khon Kaen,63,Unknown,Bangkok
+CUST-0495,regular,walk_in,False,2023-06-15,Khon Kaen,30,F,Chonburi
+CUST-0496,occasional,LINE_OA,True,2021-09-30,Chonburi,57,M,Bangkok
+CUST-0497,regular,LINE_OA,False,2023-04-17,Chonburi,59,M,Bangkok
+CUST-0498,occasional,online,False,2022-09-12,Chonburi,26,M,Bangkok
+CUST-0499,occasional,LINE_OA,True,2023-05-12,Bangkok,44,F,Chonburi
+CUST-0500,regular,LINE_OA,True,2023-07-20,Khon Kaen,19,M,Bangkok

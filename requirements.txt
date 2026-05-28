@@ -1,0 +1,8 @@
+pandas
+numpy
+faker
+holidays
+matplotlib
+seaborn
+jupyter
+lightgbm

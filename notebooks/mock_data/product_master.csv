@@ -1,0 +1,81 @@
+product_id,product_name,product_taxonomies,base_price,unit_of_measure,shelf_life_days,cogs
+SKU-0001,Snacks Item 1,snacks,69.0,piece,60,39.67
+SKU-0002,Beverages Item 2,beverages,25.0,piece,30,17.25
+SKU-0003,Personal Care Item 3,personal_care,89.0,kg,365,57.53
+SKU-0004,Frozen Food Item 4,frozen_food,35.0,pack,7,21.69
+SKU-0005,Frozen Food Item 5,frozen_food,69.0,pack,60,36.65
+SKU-0006,Dairy Item 6,dairy,149.0,piece,7,79.15
+SKU-0007,Snacks Item 7,snacks,19.0,pack,365,9.72
+SKU-0008,Snacks Item 8,snacks,69.0,pack,7,46.45
+SKU-0009,Bakery Item 9,bakery,89.0,piece,14,55.2
+SKU-0010,Beverages Item 10,beverages,35.0,pack,60,22.46
+SKU-0011,Beverages Item 11,beverages,25.0,litre,60,12.6
+SKU-0012,Snacks Item 12,snacks,89.0,bottle,365,61.76
+SKU-0013,Frozen Food Item 13,frozen_food,89.0,bottle,14,59.32
+SKU-0014,Frozen Food Item 14,frozen_food,19.0,piece,30,10.31
+SKU-0015,Beverages Item 15,beverages,49.0,kg,7,26.28
+SKU-0016,Frozen Food Item 16,frozen_food,35.0,piece,180,18.78
+SKU-0017,Bakery Item 17,bakery,15.0,kg,7,8.41
+SKU-0018,Frozen Food Item 18,frozen_food,89.0,bottle,7,53.84
+SKU-0019,Condiments Item 19,condiments,49.0,piece,30,28.73
+SKU-0020,Personal Care Item 20,personal_care,15.0,litre,7,8.37
+SKU-0021,Beverages Item 21,beverages,35.0,pack,14,21.78
+SKU-0022,Dairy Item 22,dairy,9.0,kg,14,4.75
+SKU-0023,Bakery Item 23,bakery,149.0,pack,60,83.21
+SKU-0024,Household Item 24,household,49.0,pack,365,28.09
+SKU-0025,Personal Care Item 25,personal_care,99.0,piece,180,58.53
+SKU-0026,Dairy Item 26,dairy,9.0,pack,7,5.91
+SKU-0027,Frozen Food Item 27,frozen_food,149.0,litre,7,80.45
+SKU-0028,Household Item 28,household,19.0,pack,30,11.45
+SKU-0029,Snacks Item 29,snacks,69.0,piece,365,42.68
+SKU-0030,Snacks Item 30,snacks,25.0,litre,14,12.73
+SKU-0031,Bakery Item 31,bakery,99.0,bottle,180,61.53
+SKU-0032,Snacks Item 32,snacks,19.0,pack,60,10.15
+SKU-0033,Household Item 33,household,35.0,piece,14,17.96
+SKU-0034,Household Item 34,household,19.0,bottle,365,13.11
+SKU-0035,Personal Care Item 35,personal_care,69.0,bottle,60,47.83
+SKU-0036,Beverages Item 36,beverages,35.0,kg,30,23.16
+SKU-0037,Condiments Item 37,condiments,99.0,litre,30,55.53
+SKU-0038,Snacks Item 38,snacks,69.0,pack,7,35.85
+SKU-0039,Bakery Item 39,bakery,15.0,piece,365,9.55
+SKU-0040,Snacks Item 40,snacks,25.0,kg,180,14.7
+SKU-0041,Personal Care Item 41,personal_care,99.0,litre,60,51.92
+SKU-0042,Household Item 42,household,15.0,kg,14,8.99
+SKU-0043,Frozen Food Item 43,frozen_food,149.0,litre,365,75.52
+SKU-0044,Snacks Item 44,snacks,99.0,litre,365,67.5
+SKU-0045,Beverages Item 45,beverages,149.0,pack,30,82.21
+SKU-0046,Frozen Food Item 46,frozen_food,35.0,litre,7,22.14
+SKU-0047,Personal Care Item 47,personal_care,15.0,kg,7,8.44
+SKU-0048,Snacks Item 48,snacks,25.0,litre,60,15.1
+SKU-0049,Frozen Food Item 49,frozen_food,69.0,pack,30,42.04
+SKU-0050,Snacks Item 50,snacks,89.0,pack,365,47.79
+SKU-0051,Bakery Item 51,bakery,19.0,kg,180,13.18
+SKU-0052,Personal Care Item 52,personal_care,9.0,bottle,30,5.9
+SKU-0053,Condiments Item 53,condiments,25.0,bottle,60,17.2
+SKU-0054,Household Item 54,household,15.0,litre,60,10.18
+SKU-0055,Dairy Item 55,dairy,89.0,piece,30,55.14
+SKU-0056,Household Item 56,household,25.0,litre,60,17.11
+SKU-0057,Household Item 57,household,15.0,kg,30,7.77
+SKU-0058,Frozen Food Item 58,frozen_food,49.0,kg,14,26.42
+SKU-0059,Personal Care Item 59,personal_care,49.0,kg,30,24.94
+SKU-0060,Snacks Item 60,snacks,149.0,kg,30,84.19
+SKU-0061,Dairy Item 61,dairy,25.0,kg,60,14.44
+SKU-0062,Frozen Food Item 62,frozen_food,49.0,pack,60,27.16
+SKU-0063,Dairy Item 63,dairy,15.0,bottle,7,9.99
+SKU-0064,Condiments Item 64,condiments,149.0,kg,7,85.13
+SKU-0065,Bakery Item 65,bakery,15.0,piece,14,8.34
+SKU-0066,Personal Care Item 66,personal_care,149.0,piece,7,90.67
+SKU-0067,Frozen Food Item 67,frozen_food,25.0,piece,30,13.2
+SKU-0068,Household Item 68,household,89.0,piece,60,58.78
+SKU-0069,Beverages Item 69,beverages,69.0,pack,7,35.53
+SKU-0070,Frozen Food Item 70,frozen_food,99.0,piece,7,69.04
+SKU-0071,Beverages Item 71,beverages,89.0,kg,14,58.25
+SKU-0072,Household Item 72,household,35.0,litre,365,18.89
+SKU-0073,Bakery Item 73,bakery,15.0,piece,14,7.52
+SKU-0074,Personal Care Item 74,personal_care,35.0,pack,30,23.21
+SKU-0075,Snacks Item 75,snacks,89.0,pack,60,57.08
+SKU-0076,Frozen Food Item 76,frozen_food,149.0,piece,14,96.22
+SKU-0077,Household Item 77,household,99.0,litre,7,64.77
+SKU-0078,Frozen Food Item 78,frozen_food,99.0,piece,60,50.97
+SKU-0079,Condiments Item 79,condiments,9.0,pack,60,5.15
+SKU-0080,Bakery Item 80,bakery,99.0,bottle,7,51.79

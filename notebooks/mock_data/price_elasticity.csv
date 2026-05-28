@@ -1,0 +1,9 @@
+product_taxonomies,price_elasticity,recommended_max_discount,source
+beverages,-2.1,0.3,derived
+snacks,-1.8,0.25,derived
+dairy,-1.5,0.3,literature
+frozen_food,-1.3,0.35,derived
+personal_care,-0.8,0.2,literature
+household,-0.7,0.15,literature
+bakery,-1.9,0.4,derived
+condiments,-0.9,0.2,literature
